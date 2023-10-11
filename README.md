@@ -1,7 +1,7 @@
 # EXCEL-TASK
 ## Worksheet1
 I was able to create a table below containing 20 rows of information:
-   ![](https://github.com/vinemadukpe/EXCEL-TASK/blob/main/Worksheet%20table.png
+   ![](https://github.com/vinemadukpe/EXCEL-TASK/blob/main/Worksheet%20table.png)
 
 
 
