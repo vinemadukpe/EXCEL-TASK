@@ -1,6 +1,7 @@
-# EXCEL-TASK
+# DATA ANALYSIS CLASS EXCEL-TASK
 ## Worksheet1
 I was able to create a table below containing 20 rows of information:
+
    ![](https://github.com/vinemadukpe/EXCEL-TASK/blob/main/Worksheet%20table.png)
 
 
@@ -25,7 +26,10 @@ Then highted accordingly green highest salary and red lowest salary as below:
 
 -----
 
-# TASK 2
+# TASK 2  ANALYSIS OF A SALES DATA
+Below are the results from the analysis of a Sales Data.
+Results here are gotten from using SUM, SUB, AVERAGE and MAX functions in excel.
+
    ![](https://github.com/vinemadukpe/EXCEL-TASK/blob/main/Task%202.png)
 
 
